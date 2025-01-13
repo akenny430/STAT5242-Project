@@ -1,18 +1,15 @@
-# dsstore 
+# Mac DS Store 
 .DS_Store
 
-# wesley path to data
-/data/g-research-crypto-forecasting/*
-/data/*
-
-# aiden path to data
+# path to data
 /data/g-research-crypto-forecasting/*
 
-# aux latex files 
-*.aux 
+# aux LaTeX files
+*.aux
 *.bbl
 *.blg
 *.fdb_latexmk
 *.fls
 *.log
+*.pdf
 *.synctex.gz
